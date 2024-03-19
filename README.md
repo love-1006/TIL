@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=120&section=header&text=TIL&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&fontAlign=50&height=120&section=header&text=TIL&fontSize=70" />
 
 # TIL
 
@@ -11,8 +11,16 @@
 
 
 
+
+
+
+
+
+
+
+  
 ---
-Java
+### Java
 <details>
 <summary>
   자바 입문
@@ -20,7 +28,7 @@ Java
    토글 안 내용
 </details>
 
-C/C++
+### C/C++
 <details>
 <summary>
   C입문
