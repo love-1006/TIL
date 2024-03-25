@@ -34,5 +34,6 @@
 <summary>
   C입문
 </summary>
-   토글 안 내용
+
+   [20240322 Hello C](https://github.com/love-1006/TIL/blob/c5960f003729c8405fb34eb8c276b38d31784f00/C/20240321%20Hello%20C.md)
 </details>
