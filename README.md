@@ -25,7 +25,8 @@
 <summary>
   자바 입문
 </summary>
-   토글 안 내용
+  
+   [20240321 Helloworld](https://github.com/love-1006/TIL/blob/3125a79ba9592339c04eff9a0721a16e5c4257cd/JAVA/20240321Helloworld.md)
 </details>
 
 ### C/C++
