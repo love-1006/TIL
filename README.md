@@ -29,6 +29,12 @@
    [20240321 Helloworld](https://github.com/love-1006/TIL/blob/3125a79ba9592339c04eff9a0721a16e5c4257cd/JAVA/20240321Helloworld.md)
    
    [20240325 variable](https://github.com/love-1006/TIL/blob/045be4bd7402f81770c4057d794fc6acb06fa9f4/JAVA/20240325%20variable.md)
+
+   [20240329 Operator](https://github.com/love-1006/TIL/blob/main/JAVA/20240329%20Operator.md)
+
+   [20240402 Condition](https://github.com/love-1006/TIL/blob/main/JAVA/20240402%20Condition.md)
+
+   
    
 </details>
 
